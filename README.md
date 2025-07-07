@@ -40,10 +40,6 @@ The dataset contains over **1 million rows** and the following features:
 - ✅ Feature distributions by landslide class (histograms & boxplots)
 - ✅ Outlier analysis using `RobustScaler`
 
-<p align="center">
-  <img src="images/eda_heatmap.png" width="600" alt="Correlation Heatmap">
-</p>
-
 ---
 
 ## 🧪 Data Preprocessing
